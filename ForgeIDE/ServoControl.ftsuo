@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="ISO-8859-2"?>
+<UserOptions>
+	<RealWatchItems>
+		ItemList=""
+	</RealWatchItems>
+	IDEVersion="v1.0.1.251104"
+	<OpenState>
+		<OpenFiles>
+			Path="..\\User\\02_Include\\Parameter.h"
+			Path="..\\User\\03_Source\\00main.c"
+			Path="..\\User\\03_Source\\00MotorControl.c"
+			Path="..\\User\\02_Include\\Myproject.h"
+			Path="..\\User\\03_Source\\modeswitch.c"
+			Path="..\\User\\06_Encoder\\src\\EncSPI.c"
+			Path="..\\User\\06_Encoder\\src\\EncSPI2.c"
+			Path="..\\User\\02_Include\\Customer.h"
+			Path="..\\User\\03_Source\\PhaseFind.c"
+			Path="..\\User\\14_CANspec\\canspec\\canspec.c"
+			Path="..\\User\\01_System\\include\\ADC.h"
+			State="69,1762,1774"
+		</OpenFiles>
+		<OpenFolders>
+			<{C6A2B30B-9DE9-46B7-898A-1203DFFB91D6}>
+				Expanded="TRUE"
+				Name="01_System"
+				Name="include"
+				Name="03_Source"
+				Name="04_PosLoopCtrl"
+				Name="05_SpdLoopCtrl"
+				Name="06_Encoder"
+				Name="src"
+				Name="11_FreeModbus"
+				Name="14_CANspec"
+				Name="canspec"
+				Name="port"
+			</{C6A2B30B-9DE9-46B7-898A-1203DFFB91D6}>
+		</OpenFolders>
+	</OpenState>
+</UserOptions>
